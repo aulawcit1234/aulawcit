@@ -1,2 +1,3 @@
-print("Mensagem 1")
-print("Mensagem 2")
+nome = input("Insira seu nome:\n>>")
+
+print(f"Seu nome é {nome}")
